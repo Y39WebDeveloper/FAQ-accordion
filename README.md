@@ -1,5 +1,5 @@
 # Frontend Mentor - FAQ accordion
-
+live preview : https://y39webdeveloper.github.io/FAQ-accordion/
 ![Design preview for the FAQ accordion coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
